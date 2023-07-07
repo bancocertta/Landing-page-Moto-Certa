@@ -46,7 +46,7 @@ a{
     background-color: #3ec34f;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
     font-size: 2ch;
     margin:  40px 0px 40px 0px;
     height: 60px;
@@ -62,8 +62,8 @@ a{
 }
 
 .logo_wpp{
-    height: 45px;
-    width: 45px;
+    height: 40px;
+    width: 40px;
     border-radius: 100%;
     padding-right: 15px;
 }
