@@ -10,7 +10,7 @@ else if(sorteio==1){
     num = "5584994057420"
     vendedor = " Bia"
 }
-else if(vendedor==2){
+else if(sorteio==2){
     num = "5584988602680"
     vendedor = " Allana"
 }
