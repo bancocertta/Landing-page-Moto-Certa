@@ -1,4 +1,4 @@
-var sorteio = Math.floor(Math.random() * 4);
+var sorteio = Math.floor(Math.random() * 2);
 var vendedor
 var num
 
