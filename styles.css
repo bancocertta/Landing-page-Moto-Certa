@@ -32,7 +32,10 @@ a{
 }
 
 .lista{
-    background-color: aliceblue;
+    background-image: url(img/fundo.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -125,8 +128,8 @@ p{
 
 .maps{
     border-radius: 5px;
-    height: 120px;
-    width: 140px;
+    height: 140px;
+    width: 110px;
     margin-right: 10px;
 }
 
